@@ -27,7 +27,7 @@ for(auto i:mp){
         }
 }
 cout<<"Longest List of Anagrams is"<<endl;
-for(auto i: ans) cout<<i<<" ";
+for(auto i: ans) cout<<i<<endl;
 cout<<"Size of List is"<<ans.size()<<endl;
 MyReadFile.close();
 }
